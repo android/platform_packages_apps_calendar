@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAApX////4\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2219,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2009-12-16T10:21:32Z",
+      "side": 1,
+      "message": "Remove spaces after ( and before ), add spaces around the +",
+      "revId": "147c166c8fe1614c160ee71ad868b05a6951457f",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAApX////0\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2221,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2009-12-16T10:21:32Z",
+      "side": 1,
+      "message": "You are creating a new StaticLayout and a new TextPaint every time the text draws, do NOT do this. Also, fix spaces (spaces around operators, after casts, no space after or before a parenthesis.)",
+      "revId": "147c166c8fe1614c160ee71ad868b05a6951457f",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAApX////w\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2222,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2009-12-16T10:21:32Z",
+      "side": 1,
+      "message": "Replace (float)1 with 1.0f and (float)0.0 with 0.0f",
+      "revId": "147c166c8fe1614c160ee71ad868b05a6951457f",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAApX////s\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2225,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2009-12-16T10:21:32Z",
+      "side": 1,
+      "message": "Spaces.",
+      "revId": "147c166c8fe1614c160ee71ad868b05a6951457f",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}

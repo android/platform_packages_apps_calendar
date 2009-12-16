@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAApX////8\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2200,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2009-12-16T10:21:32Z",
+      "side": 0,
+      "message": "Please keep those two variables, they avoid method calls.",
+      "revId": "af31f6388ffe2a103c94f56be9b011094638ed61",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
