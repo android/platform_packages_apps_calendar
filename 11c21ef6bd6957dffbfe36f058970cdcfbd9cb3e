@@ -1,0 +1,140 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAx3///bE\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 535,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-04-29T21:53:32Z",
+      "side": 1,
+      "message": "Don\u0027t use tabs",
+      "revId": "11c21ef6bd6957dffbfe36f058970cdcfbd9cb3e",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAx3///bA\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 777,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-04-29T21:53:32Z",
+      "side": 1,
+      "message": "Don\u0027t use tabs",
+      "revId": "11c21ef6bd6957dffbfe36f058970cdcfbd9cb3e",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAx3///a8\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 973,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-04-29T21:53:32Z",
+      "side": 1,
+      "message": "Tabs (same in the changes below)",
+      "revId": "11c21ef6bd6957dffbfe36f058970cdcfbd9cb3e",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAx3///a4\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1200,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-04-29T21:53:32Z",
+      "side": 1,
+      "message": "The style is while (mLayouts.size() \u003c events.size())",
+      "revId": "11c21ef6bd6957dffbfe36f058970cdcfbd9cb3e",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAx3///a0\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1614,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-04-29T21:53:32Z",
+      "side": 1,
+      "message": "Spaces are wrong, the curly brace should be on the same line as the method\n\nSpaces are wrong in every line of this method, please fix",
+      "revId": "11c21ef6bd6957dffbfe36f058970cdcfbd9cb3e",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAx3///aw\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1620,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-04-29T21:53:32Z",
+      "side": 1,
+      "message": "Typo",
+      "revId": "11c21ef6bd6957dffbfe36f058970cdcfbd9cb3e",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAx3///as\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1641,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-04-29T21:53:32Z",
+      "side": 1,
+      "message": "Spaces, surround the content of the if with { }",
+      "revId": "11c21ef6bd6957dffbfe36f058970cdcfbd9cb3e",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAx3///ao\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1645,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-04-29T21:53:32Z",
+      "side": 1,
+      "message": "Just write mLayout \u003d getEventLayout(...)",
+      "revId": "11c21ef6bd6957dffbfe36f058970cdcfbd9cb3e",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
