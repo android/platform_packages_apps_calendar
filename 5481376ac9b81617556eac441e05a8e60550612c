@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAyn///2c\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 1615,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-05-11T17:59:01Z",
+      "side": 1,
+      "message": "Spaces around the \u003d sign.",
+      "revId": "5481376ac9b81617556eac441e05a8e60550612c",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAyn///2Y\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 1623,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-05-11T17:59:01Z",
+      "side": 1,
+      "message": "Spaces around the \u003d sign.",
+      "revId": "5481376ac9b81617556eac441e05a8e60550612c",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAyn///2g\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 1625,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-05-11T17:59:01Z",
+      "side": 1,
+      "message": "Is creating a new TextPaint here necessary?\nSpaces around the \u003d sign.",
+      "revId": "5481376ac9b81617556eac441e05a8e60550612c",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAyn///2U\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 1724,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-05-11T17:59:01Z",
+      "side": 1,
+      "message": "Spaces around the \u003d sign.",
+      "revId": "5481376ac9b81617556eac441e05a8e60550612c",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAyn///2Q\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 1880,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-05-11T17:59:01Z",
+      "side": 1,
+      "message": "Spaces around the \u003d sign.",
+      "revId": "5481376ac9b81617556eac441e05a8e60550612c",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAyn///2I\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 2277,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-05-11T17:59:01Z",
+      "side": 1,
+      "message": "Why is it translating by an extra pixel? Can you explain in a comment?",
+      "revId": "5481376ac9b81617556eac441e05a8e60550612c",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
