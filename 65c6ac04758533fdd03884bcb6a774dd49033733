@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAzH///68\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 8
+      },
+      "lineNbr": 1626,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-05-13T21:05:57Z",
+      "side": 1,
+      "message": "Can you leave a comment explaining why the two - 2 ?",
+      "revId": "65c6ac04758533fdd03884bcb6a774dd49033733",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAzH///7A\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 8
+      },
+      "lineNbr": 2277,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-05-13T21:05:57Z",
+      "side": 1,
+      "message": "Please explain more clearly why the +1 is needed here.",
+      "revId": "65c6ac04758533fdd03884bcb6a774dd49033733",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
