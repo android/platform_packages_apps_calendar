@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAzH///jg\u003d",
+        "filename": "src/com/android/calendar/EditEvent.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 585,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-05-17T18:14:03Z",
+      "side": 1,
+      "message": "Please keep the finally, there\u0027s no reason for that change.",
+      "revId": "2a5346519fd4f5339c50339394d783b692cbd729",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
