@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAA73//+Z4\u003d",
+        "filename": "AndroidManifest.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1000322
+      },
+      "writtenOn": "2010-10-13T23:27:02Z",
+      "side": 1,
+      "message": "The tabs at the beginning of the line here should be spaces instead.",
+      "revId": "b14a64ead922f2fc29718c4a5f4c14d3ae181a64",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA73//+aA\u003d",
+        "filename": "src/com/android/calendar/CalendarBackupAgent.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000322
+      },
+      "writtenOn": "2010-10-13T23:27:02Z",
+      "side": 1,
+      "message": "Android style says 8 space indentation of continuation lines, not to align with the previous line\u0027s arguments.",
+      "revId": "b14a64ead922f2fc29718c4a5f4c14d3ae181a64",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
