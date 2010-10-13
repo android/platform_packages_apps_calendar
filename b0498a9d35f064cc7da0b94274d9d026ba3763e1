@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAA73//+a4\u003d",
+        "filename": "src/com/android/calendar/CalendarBackupAgent.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1000322
+      },
+      "writtenOn": "2010-10-13T23:20:35Z",
+      "side": 1,
+      "message": "Android style says to indent 8 spaces on continuation lines, not to align with the previous line\u0027s arguments.",
+      "revId": "b0498a9d35f064cc7da0b94274d9d026ba3763e1",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
