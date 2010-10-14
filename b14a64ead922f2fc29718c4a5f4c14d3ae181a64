@@ -50,6 +50,24 @@
       "revId": "b14a64ead922f2fc29718c4a5f4c14d3ae181a64",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA73//+Yc\u003d",
+        "filename": "src/com/android/calendar/CalendarPreferenceActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 1000322
+      },
+      "writtenOn": "2010-10-14T01:02:45Z",
+      "side": 1,
+      "message": "There are two aspects to the answer here.  :)\n\nThe first is that a package name uniquely identifies an application.  This is mostly enforced through Market-type mechanisms, which require uniqueness at that stage.  com.android.calendar is the canonical package name for the Android platform calendar app.\n\nThe second aspect is the OEM customizations.  When an OEM provides a calendar app with a different package name, that is literally a *replacement*, a different app that offers similar functionality.  Backed-up data is fundamentally bound to the package name of the binary that originated it -- there is no leakage possible from com.android.calendar\u0027s backed-up data to some OEM\u0027s replacement app that uses their own unique package name.",
+      "parentUuid": "AAAA73//+Yw\u003d",
+      "revId": "b14a64ead922f2fc29718c4a5f4c14d3ae181a64",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
