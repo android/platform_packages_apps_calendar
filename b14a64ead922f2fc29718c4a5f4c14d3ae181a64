@@ -33,6 +33,23 @@
       "revId": "b14a64ead922f2fc29718c4a5f4c14d3ae181a64",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA73//+Yw\u003d",
+        "filename": "src/com/android/calendar/CalendarPreferenceActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 1002598
+      },
+      "writtenOn": "2010-10-14T00:40:52Z",
+      "side": 1,
+      "message": "Chris,\nThe package name can differ for different phones e.g. com.google.android.calendar, com.\u003csome OEM\u003e.android.calendar, etc. Does that since the backup.api_key is associated with a particular package during registration?",
+      "revId": "b14a64ead922f2fc29718c4a5f4c14d3ae181a64",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
