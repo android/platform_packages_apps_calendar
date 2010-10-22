@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAA8H//+08\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 302,
+      "author": {
+        "id": 1001146
+      },
+      "writtenOn": "2010-10-22T20:24:12Z",
+      "side": 1,
+      "message": "Line too long, comments should not exceed 80 characters",
+      "revId": "197dc67c30f761ac10e01ead8553ccb78e6fe28b",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
