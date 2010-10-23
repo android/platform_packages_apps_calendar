@@ -16,6 +16,24 @@
       "revId": "197dc67c30f761ac10e01ead8553ccb78e6fe28b",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA8H//+zw\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 302,
+      "author": {
+        "id": 1002372
+      },
+      "writtenOn": "2010-10-23T07:49:36Z",
+      "side": 1,
+      "message": "From the coding style document:\nhttp://source.android.com/source/code-style.html#linelen\n\n\"Each line of text in your code should be at most 100 characters long.\n\nThere has been lots of discussion about this rule and the decision remains that 100 characters is the maximum.\"\n\nPlease provide a reference to the 80 character limit.\n\nThis line does go over the 100 line length limit too, and I\u0027ll fix it, but 80 is not the correct limit.",
+      "parentUuid": "AAAA8H//+08\u003d",
+      "revId": "197dc67c30f761ac10e01ead8553ccb78e6fe28b",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
