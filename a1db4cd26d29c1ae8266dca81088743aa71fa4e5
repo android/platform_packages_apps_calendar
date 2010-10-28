@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAA8H//+CM\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1720,
+      "author": {
+        "id": 1002598
+      },
+      "writtenOn": "2010-10-28T23:21:08Z",
+      "side": 1,
+      "message": "Let\u0027s leave this in there. Replace the new lines will allow us to fit more text.",
+      "revId": "a1db4cd26d29c1ae8266dca81088743aa71fa4e5",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA8H//+CQ\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1726,
+      "author": {
+        "id": 1002598
+      },
+      "writtenOn": "2010-10-28T23:21:08Z",
+      "side": 1,
+      "message": "The event text wraps properly when I change TextUtils.TruncateAt.END to null. However, it is overflowing at the bottom. Unfortunately, that\u0027s how StaticLayout works. :( I don\u0027t see a way to specify a height. We will have to call on canvas.clipRect() to a multiple of line height before drawing onto the canvas.",
+      "revId": "a1db4cd26d29c1ae8266dca81088743aa71fa4e5",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
