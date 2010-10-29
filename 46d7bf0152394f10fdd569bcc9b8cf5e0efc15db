@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAA8H//9+0\u003d",
+        "filename": "AndroidManifest.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1000322
+      },
+      "writtenOn": "2010-10-29T01:47:44Z",
+      "side": 1,
+      "message": "Tabs here instead of spaces, and not following standard indentation style.",
+      "revId": "46d7bf0152394f10fdd569bcc9b8cf5e0efc15db",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA8H//9+w\u003d",
+        "filename": "src/com/android/calendar/CalendarBackupAgent.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000322
+      },
+      "writtenOn": "2010-10-29T01:47:44Z",
+      "side": 1,
+      "message": "Not using standard indentation style.",
+      "revId": "46d7bf0152394f10fdd569bcc9b8cf5e0efc15db",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
