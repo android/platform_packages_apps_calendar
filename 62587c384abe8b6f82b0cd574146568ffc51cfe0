@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAA8H//9/U\u003d",
+        "filename": "src/com/android/calendar/CalendarPreferenceActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 1000322
+      },
+      "writtenOn": "2010-10-29T01:03:39Z",
+      "side": 1,
+      "message": "nit: not part of your current patchset, but there\u0027s a tab character here instead of the proper spaces to indent.",
+      "revId": "62587c384abe8b6f82b0cd574146568ffc51cfe0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
