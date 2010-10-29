@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAA8H//948\u003d",
+        "filename": "src/com/android/calendar/CalendarPreferenceActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1002598
+      },
+      "writtenOn": "2010-10-29T18:09:29Z",
+      "side": 1,
+      "message": "Remove",
+      "revId": "8f755b8f542b8160138ed0d989eaef71fa4441fb",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA8H//944\u003d",
+        "filename": "src/com/android/calendar/CalendarPreferenceActivity.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 1002598
+      },
+      "writtenOn": "2010-10-29T18:09:29Z",
+      "side": 1,
+      "message": "Please change tabs to spaces",
+      "revId": "8f755b8f542b8160138ed0d989eaef71fa4441fb",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
