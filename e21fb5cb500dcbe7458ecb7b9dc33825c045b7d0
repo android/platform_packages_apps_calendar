@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAA8H//9+o\u003d",
+        "filename": "src/com/android/calendar/CalendarPreferenceActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 1000322
+      },
+      "writtenOn": "2010-10-29T01:49:29Z",
+      "side": 1,
+      "message": "Please don\u0027t spam the log with debug output like this.",
+      "revId": "e21fb5cb500dcbe7458ecb7b9dc33825c045b7d0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA8H//9+k\u003d",
+        "filename": "src/com/android/calendar/CalendarPreferenceActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 1000322
+      },
+      "writtenOn": "2010-10-29T01:49:29Z",
+      "side": 1,
+      "message": "Tab instead of spaces to indent here.",
+      "revId": "e21fb5cb500dcbe7458ecb7b9dc33825c045b7d0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
