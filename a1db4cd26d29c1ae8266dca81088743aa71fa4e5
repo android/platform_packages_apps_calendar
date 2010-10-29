@@ -33,6 +33,24 @@
       "revId": "a1db4cd26d29c1ae8266dca81088743aa71fa4e5",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA8H//9+A\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1726,
+      "author": {
+        "id": 1002372
+      },
+      "writtenOn": "2010-10-29T09:05:52Z",
+      "side": 1,
+      "message": "I think that something changed, then. With a froyo framework, there is only one ellipsis, at the very end, and the text wraps correctly. Also, my understanding of the different TruncateAt values is that the behavior you are describing is what MIDDLE is for, and END should do precisely the right thing. As such, I do not think that that is how StaticLayout works, neither in practice on Froyo, nor in theory.",
+      "parentUuid": "AAAA8H//+CQ\u003d",
+      "revId": "a1db4cd26d29c1ae8266dca81088743aa71fa4e5",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
