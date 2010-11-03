@@ -51,6 +51,24 @@
       "revId": "a1db4cd26d29c1ae8266dca81088743aa71fa4e5",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA8H//9X8\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1726,
+      "author": {
+        "id": 1002598
+      },
+      "writtenOn": "2010-11-03T17:01:16Z",
+      "side": 1,
+      "message": "If you have a really long event title, do you see one line of text or multiple? If single line, we can\u0027t use it as is. If multiple, how do you control the height of a StaticLayout. Maybe I am missing something... but the only option I see is to set a canvas clipRect before drawing.",
+      "parentUuid": "AAAA8H//9+A\u003d",
+      "revId": "a1db4cd26d29c1ae8266dca81088743aa71fa4e5",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
