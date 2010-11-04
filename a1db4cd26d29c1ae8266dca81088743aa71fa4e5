@@ -105,6 +105,24 @@
       "revId": "a1db4cd26d29c1ae8266dca81088743aa71fa4e5",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA8H//9CQ\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1726,
+      "author": {
+        "id": 1002598
+      },
+      "writtenOn": "2010-11-04T22:04:40Z",
+      "side": 1,
+      "message": "Ok. I talk the engineer involved. My guess was correct. I will a bugs and a feature request:\n1) when truncating, the second line shouldn\u0027t overflow\n2) allow the caller to specify a height for a StaticLayout.\n\nUntil these are implemented, this patch won\u0027t work as it limits the text to 2 lines even for Froyo.",
+      "parentUuid": "AAAA8H//9IU\u003d",
+      "revId": "a1db4cd26d29c1ae8266dca81088743aa71fa4e5",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
