@@ -69,6 +69,24 @@
       "revId": "a1db4cd26d29c1ae8266dca81088743aa71fa4e5",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA8H//9I0\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1726,
+      "author": {
+        "id": 1002372
+      },
+      "writtenOn": "2010-11-04T10:58:52Z",
+      "side": 1,
+      "message": "I can confirm that the first line gets wrapped and the second gets truncated. It has been about a year since I wrote this patch, and I have to confess that I do not remember how or what did that (if any) to make it work. http://www.lingnu.com/files/short.png contains a screen shot of the truncated version. http://www.lingnu.com/files/long.png contains the longer one.\n\nThe real question is, if StaticLayout doesn\u0027t do it, what is the difference between TruncateAt::END, MIDDLE and NONE?",
+      "parentUuid": "AAAA8H//9X8\u003d",
+      "revId": "a1db4cd26d29c1ae8266dca81088743aa71fa4e5",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
