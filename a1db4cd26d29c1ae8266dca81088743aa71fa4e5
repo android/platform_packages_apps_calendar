@@ -87,6 +87,24 @@
       "revId": "a1db4cd26d29c1ae8266dca81088743aa71fa4e5",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA8H//9IU\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1726,
+      "author": {
+        "id": 1002598
+      },
+      "writtenOn": "2010-11-04T15:10:58Z",
+      "side": 1,
+      "message": "I will try to find out more later today but I am GUESSING that whenever StaticLayout truncates, it is always limited to 2 lines.  (The behavior I am seeing where it wraps the first and the overflows on the second is a bug.) Sounds like StaticLayout is too limited to our use. We need to be able to specify a height and have it wrap the text to as many lines as there are space for.  I will get back to you after speaking to other people here.",
+      "parentUuid": "AAAA8H//9I0\u003d",
+      "revId": "a1db4cd26d29c1ae8266dca81088743aa71fa4e5",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
