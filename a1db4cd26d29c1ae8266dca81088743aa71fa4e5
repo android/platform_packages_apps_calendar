@@ -123,6 +123,24 @@
       "revId": "a1db4cd26d29c1ae8266dca81088743aa71fa4e5",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA8H//8+E\u003d",
+        "filename": "src/com/android/calendar/CalendarView.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1726,
+      "author": {
+        "id": 1002372
+      },
+      "writtenOn": "2010-11-05T05:40:18Z",
+      "side": 1,
+      "message": "From the StaticLayout docs:\n\"You should not need to use this class directly unless you are implementing your own widget or custom display object, or would be tempted to call Canvas.drawText() directly.\"\n\nThe problem is that the class is very ill suited for replacing drawText. It doesn\u0027t allow changing the text (hence the complicated cache of StaticLayouts in this patch), it doesn\u0027t allow setting the text output location (hence the canvas origin mapping). It cannot change the text width at runtime. In other words, it does everything it can in order to push developers away from actually using it (hence the long standing bug with BiDi strings in GMail apps - even Google\u0027s engineers don\u0027t use it properly when they should)\n\nAndroid needs to rethink its position about direct use of drawText on the one hand, especially in regard to BiDi, and the general usefulness of StaticLayout on the other.\n\nI know this is not the right place to put this, but I simply don\u0027t know where is the right place. I\u0027ll try to start a discussion on android-platform, and lets hope we actually get participation from the powers that be....\n\nIn the mean while, you are right, this patch doesn\u0027t do 100% of what it is supposed to do, but IMHO it is still an improvement.",
+      "parentUuid": "AAAA8H//9CQ\u003d",
+      "revId": "a1db4cd26d29c1ae8266dca81088743aa71fa4e5",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
