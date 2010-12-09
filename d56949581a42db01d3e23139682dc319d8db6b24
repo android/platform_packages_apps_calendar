@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAA+H///3w\u003d",
+        "filename": "src/com/android/calendar/CalendarBackupAgent.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1002598
+      },
+      "writtenOn": "2010-12-09T19:11:43Z",
+      "side": 1,
+      "message": "Added copyright.",
+      "revId": "d56949581a42db01d3e23139682dc319d8db6b24",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA+H///3o\u003d",
+        "filename": "src/com/android/calendar/CalendarPreferenceActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1002598
+      },
+      "writtenOn": "2010-12-09T19:11:43Z",
+      "side": 1,
+      "message": "Removed unneeded Log import",
+      "revId": "d56949581a42db01d3e23139682dc319d8db6b24",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA+H///3k\u003d",
+        "filename": "src/com/android/calendar/CalendarPreferenceActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 1002598
+      },
+      "writtenOn": "2010-12-09T19:11:43Z",
+      "side": 1,
+      "message": "Replaced tab with spaces",
+      "revId": "d56949581a42db01d3e23139682dc319d8db6b24",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
