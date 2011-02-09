@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAA+3//5f4\u003d",
+        "filename": "src/com/android/calendar/EventInfoActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 373,
+      "author": {
+        "id": 1002598
+      },
+      "writtenOn": "2011-02-09T00:48:52Z",
+      "side": 1,
+      "message": "whereArgs[0] \u003d String.valueOf(mEventId);",
+      "revId": "9597ec35f7adaaedfb8abf0819628d13cd47f8f1",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAA+3//5f0\u003d",
+        "filename": "src/com/android/calendar/EventInfoActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 408,
+      "author": {
+        "id": 1002598
+      },
+      "writtenOn": "2011-02-09T00:48:52Z",
+      "side": 1,
+      "message": "remove this line",
+      "revId": "9597ec35f7adaaedfb8abf0819628d13cd47f8f1",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
