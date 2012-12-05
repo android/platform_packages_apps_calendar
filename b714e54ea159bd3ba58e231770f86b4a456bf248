@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "Mket57fA",
+        "filename": "src/com/android/calendar/AsyncQueryService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 425,
+      "author": {
+        "id": 1002598
+      },
+      "writtenOn": "2012-12-05T20:25:46Z",
+      "side": 1,
+      "message": "Revert this. onDeleteComplete should be called whether the delete was successful or not.",
+      "revId": "b714e54ea159bd3ba58e231770f86b4a456bf248",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "MketgzSo",
+        "filename": "src/com/android/calendar/AsyncQueryServiceHelper.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 318,
+      "author": {
+        "id": 1002598
+      },
+      "writtenOn": "2012-12-05T20:25:46Z",
+      "side": 1,
+      "message": "It may not be a problematic uri. Please just print \"Delete failed\"",
+      "revId": "b714e54ea159bd3ba58e231770f86b4a456bf248",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "MkauD5dY",
+        "filename": "src/com/android/calendar/AsyncQueryServiceHelper.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 320,
+      "author": {
+        "id": 1002598
+      },
+      "writtenOn": "2012-12-05T20:25:46Z",
+      "side": 1,
+      "message": "resolver.delete returns the number of rows deleted. In case of failure, the return value should be 0, not null.",
+      "revId": "b714e54ea159bd3ba58e231770f86b4a456bf248",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
