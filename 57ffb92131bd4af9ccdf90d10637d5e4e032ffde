@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5b727215_3647409c",
+        "filename": "tests/Android.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1083173
+      },
+      "writtenOn": "2019-04-02T16:58:11Z",
+      "side": 1,
+      "message": "FYI I think you should use general-tests if these are just apks.",
+      "revId": "57ffb92131bd4af9ccdf90d10637d5e4e032ffde",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    }
+  ]
+}
