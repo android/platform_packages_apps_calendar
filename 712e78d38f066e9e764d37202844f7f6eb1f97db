@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a6df247a_16df8711",
+        "filename": "Android.mk",
+        "patchSetId": 6
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1088076
+      },
+      "writtenOn": "2019-04-14T06:58:24Z",
+      "side": 1,
+      "message": "why this is general-tests, not device-tests?",
+      "range": {
+        "startLine": 40,
+        "startChar": 28,
+        "endLine": 40,
+        "endChar": 35
+      },
+      "revId": "712e78d38f066e9e764d37202844f7f6eb1f97db",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    }
+  ]
+}
