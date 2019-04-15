@@ -94,6 +94,30 @@
       "revId": "712e78d38f066e9e764d37202844f7f6eb1f97db",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6cc5ddd4_3c05307e",
+        "filename": "Android.mk",
+        "patchSetId": 6
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1088076
+      },
+      "writtenOn": "2019-04-15T17:25:06Z",
+      "side": 1,
+      "message": "The test uses apk, so general-tests is a safe bet. It should work.",
+      "parentUuid": "670c8e4b_b9960785",
+      "range": {
+        "startLine": 40,
+        "startChar": 28,
+        "endLine": 40,
+        "endChar": 35
+      },
+      "revId": "712e78d38f066e9e764d37202844f7f6eb1f97db",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
