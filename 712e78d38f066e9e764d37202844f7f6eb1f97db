@@ -70,6 +70,30 @@
       "revId": "712e78d38f066e9e764d37202844f7f6eb1f97db",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "670c8e4b_b9960785",
+        "filename": "Android.mk",
+        "patchSetId": 6
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2019-04-15T17:18:04Z",
+      "side": 1,
+      "message": "I have updated the commit message.\n\nDone",
+      "parentUuid": "36170327_3b30e60a",
+      "range": {
+        "startLine": 40,
+        "startChar": 28,
+        "endLine": 40,
+        "endChar": 35
+      },
+      "revId": "712e78d38f066e9e764d37202844f7f6eb1f97db",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
