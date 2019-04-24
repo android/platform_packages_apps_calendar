@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9b5e5080_39f32c6b",
+        "filename": "Android.mk",
+        "patchSetId": 7
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1088076
+      },
+      "writtenOn": "2019-04-24T17:30:18Z",
+      "side": 1,
+      "message": "there is a missing i here. That\u0027s why the apk was failed to find in presubmit test.",
+      "range": {
+        "startLine": 40,
+        "startChar": 12,
+        "endLine": 40,
+        "endChar": 13
+      },
+      "revId": "00d13f50de10ac09cb20f357ebee8dbb4e2d4a96",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    }
+  ]
+}
