@@ -34,6 +34,23 @@
       "revId": "30a4518ad23a809ed36b0eb5ce23ed765db9aaa1",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8b7acbde_69e2a55c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2020-07-13T17:48:40Z",
+      "side": 1,
+      "message": "Builds have failed because of merge conflicts. Can you rebase and upload again? Thanks \n\nerror: Changes failed to apply, merge conflict detected.",
+      "revId": "30a4518ad23a809ed36b0eb5ce23ed765db9aaa1",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
