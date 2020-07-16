@@ -69,6 +69,23 @@
       "revId": "30a4518ad23a809ed36b0eb5ce23ed765db9aaa1",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "01c0ff68_3b1ba96b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2020-07-16T16:23:08Z",
+      "side": 1,
+      "message": "Hi Luca,\n  Why not change the English version only and we will run tools that will translate to other languages?",
+      "revId": "30a4518ad23a809ed36b0eb5ce23ed765db9aaa1",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
