@@ -104,6 +104,23 @@
       "revId": "30a4518ad23a809ed36b0eb5ce23ed765db9aaa1",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3b10db6c_7e12d2a4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2020-07-22T23:34:49Z",
+      "side": 1,
+      "message": "Hi Bill and Luca,\n  packages/apps/Calendar/res/values/strings.xml already has this change. The internal versions of these files got translated into other languages by the tool. But those changes are not yet merged into aosp-master and because of that presubmit verify is failing. \n\nhttps://cs.android.com/android/platform/superproject/+/master:packages/apps/Calendar/res/values/strings.xml;drc\u003db4e402b5aa977734e330ff97a6ad9608f89a82d4;l\u003d44\n\nHi Bill,\n  Should I cherry pick the internal translation changes to aosp-master?\n\nThanks",
+      "revId": "30a4518ad23a809ed36b0eb5ce23ed765db9aaa1",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
