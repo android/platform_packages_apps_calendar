@@ -121,6 +121,24 @@
       "revId": "30a4518ad23a809ed36b0eb5ce23ed765db9aaa1",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ed58f4e6_14c63349",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1042719
+      },
+      "writtenOn": "2020-07-23T01:23:55Z",
+      "side": 1,
+      "message": "I\u0027ve updated the commit message. Let\u0027s see if it helps.",
+      "parentUuid": "3b10db6c_7e12d2a4",
+      "revId": "30a4518ad23a809ed36b0eb5ce23ed765db9aaa1",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
