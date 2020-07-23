@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ac47ebb7_83e9e355",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1081223
+      },
+      "writtenOn": "2020-07-23T09:00:44Z",
+      "side": 1,
+      "message": "So merge?\nIt\u0027s just for aosp then :)\n\nThanks Xin",
+      "revId": "23da4d3f5ed1c317d7274a3e6ea0b6b5e841324e",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
