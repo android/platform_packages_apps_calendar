@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5eba65c4_ccd11611",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1075502
+      },
+      "writtenOn": "2021-01-03T14:43:10Z",
+      "side": 1,
+      "message": "To resolve issues on devices built with Go configurations,\nthus using \"go_handheld_core_hardware.xml\" where widgets features are disabled.\n\nRaman Tenneti: The change I65931f9b4c8dc6c4644e491125965c2aeaeca702 already partially worked around the issue but only in a specific location. Can\u0027t know if the original was a Go device but could be a reason.",
+      "revId": "b107bb8fa5ca7ea99f4432fcc08edc9b2eb0daf5",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
