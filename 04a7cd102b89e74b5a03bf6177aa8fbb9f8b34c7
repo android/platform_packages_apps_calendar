@@ -37,6 +37,178 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "fd30ba48_54c0678e",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1002751
+      },
+      "writtenOn": "2021-06-02T21:53:48Z",
+      "side": 1,
+      "message": "Soong doesn\u0027t let you reference source files from outside the package directory, but these resources are already present through android_library modules listed in static_libs, so you can just remove all of these.",
+      "range": {
+        "startLine": 4,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 70
+      },
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "618a62eb_4aba9ccd",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1002751
+      },
+      "writtenOn": "2021-06-02T21:53:48Z",
+      "side": 1,
+      "message": "Remove this, there is no need to use a variable",
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f35862da_435ca29e",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1002751
+      },
+      "writtenOn": "2021-06-02T21:53:48Z",
+      "side": 1,
+      "message": "Replace * with ** to include subpackages, which matches what the Make behavior was.",
+      "range": {
+        "startLine": 13,
+        "startChar": 47,
+        "endLine": 13,
+        "endChar": 48
+      },
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "969673ec_f2f3216d",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1002751
+      },
+      "writtenOn": "2021-06-02T21:53:48Z",
+      "side": 1,
+      "message": "The converter didn\u0027t handle this well, replace this with \"src/**/*.java\"",
+      "range": {
+        "startLine": 17,
+        "startChar": 8,
+        "endLine": 18,
+        "endChar": 27
+      },
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8a20769a_ab647e16",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1002751
+      },
+      "writtenOn": "2021-06-02T21:53:48Z",
+      "side": 1,
+      "message": "You can remove this, \"res\" is implicit and the rest are already in static_libs.",
+      "range": {
+        "startLine": 39,
+        "startChar": 0,
+        "endLine": 41,
+        "endChar": 0
+      },
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d0993f61_1a33d86e",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1002751
+      },
+      "writtenOn": "2021-06-02T21:53:48Z",
+      "side": 1,
+      "message": "The translator doesn\u0027t handle these, drop them and add at the top of the file:\n\npackage {\n    default_applicable_licenses: [\"packages_apps_Calendar_license\"],\n}\n\nlicense {\n    name: \"packages_apps_Calendar_license\",\n    visibility: [\":__subpackages__\"],\n    license_kinds: [\n        \"SPDX-license-identifier-Apache-2.0\",\n    ],\n    license_text: [\n        \"NOTICE\",\n    ],\n}",
+      "range": {
+        "startLine": 42,
+        "startChar": 1,
+        "endLine": 46,
+        "endChar": 41
+      },
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dc94eceb_bfcf4714",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1002751
+      },
+      "writtenOn": "2021-06-02T21:53:48Z",
+      "side": 1,
+      "message": "Remove this",
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3894e729_08560f30",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1002751
+      },
+      "writtenOn": "2021-06-02T21:53:48Z",
+      "side": 1,
+      "message": "Remove these, they are also handled by the android_library modules in static_libs.",
+      "range": {
+        "startLine": 56,
+        "startChar": 37,
+        "endLine": 66,
+        "endChar": 0
+      },
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "5450616c_5dd2dfbc",
         "filename": "Android.bp",
         "patchSetId": 2
