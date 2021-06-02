@@ -35,6 +35,24 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e30013b5_7c6fccd3",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-02T23:51:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9dfeb57e_a4d92745",
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "fd30ba48_54c0678e",
@@ -48,6 +66,30 @@
       "writtenOn": "2021-06-02T21:53:48Z",
       "side": 1,
       "message": "Soong doesn\u0027t let you reference source files from outside the package directory, but these resources are already present through android_library modules listed in static_libs, so you can just remove all of these.",
+      "range": {
+        "startLine": 4,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 70
+      },
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fa043691_db73f8c7",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-02T23:51:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fd30ba48_54c0678e",
       "range": {
         "startLine": 4,
         "startChar": 0,
@@ -75,6 +117,24 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "10e0013f_78d5d726",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-02T23:51:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "618a62eb_4aba9ccd",
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f35862da_435ca29e",
@@ -88,6 +148,30 @@
       "writtenOn": "2021-06-02T21:53:48Z",
       "side": 1,
       "message": "Replace * with ** to include subpackages, which matches what the Make behavior was.",
+      "range": {
+        "startLine": 13,
+        "startChar": 47,
+        "endLine": 13,
+        "endChar": 48
+      },
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b9c4ef20_cb983ce9",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-02T23:51:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f35862da_435ca29e",
       "range": {
         "startLine": 13,
         "startChar": 47,
@@ -121,6 +205,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "fbf1f228_1caa0749",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-02T23:51:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "969673ec_f2f3216d",
+      "range": {
+        "startLine": 17,
+        "startChar": 8,
+        "endLine": 18,
+        "endChar": 27
+      },
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "8a20769a_ab647e16",
@@ -134,6 +242,30 @@
       "writtenOn": "2021-06-02T21:53:48Z",
       "side": 1,
       "message": "You can remove this, \"res\" is implicit and the rest are already in static_libs.",
+      "range": {
+        "startLine": 39,
+        "startChar": 0,
+        "endLine": 41,
+        "endChar": 0
+      },
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "94c59d8f_2d776b9e",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-02T23:51:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "8a20769a_ab647e16",
       "range": {
         "startLine": 39,
         "startChar": 0,
@@ -167,6 +299,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "1c54f7fe_32ccb601",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-02T23:51:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d0993f61_1a33d86e",
+      "range": {
+        "startLine": 42,
+        "startChar": 1,
+        "endLine": 46,
+        "endChar": 41
+      },
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "dc94eceb_bfcf4714",
@@ -180,6 +336,24 @@
       "writtenOn": "2021-06-02T21:53:48Z",
       "side": 1,
       "message": "Remove this",
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "daed6490_6dfb4de1",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-02T23:51:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "dc94eceb_bfcf4714",
       "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
@@ -207,6 +381,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "3d6ff953_aae8bb74",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-02T23:51:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3894e729_08560f30",
+      "range": {
+        "startLine": 56,
+        "startChar": 37,
+        "endLine": 66,
+        "endChar": 0
+      },
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "5450616c_5dd2dfbc",
@@ -220,6 +418,24 @@
       "writtenOn": "2021-06-02T21:42:08Z",
       "side": 1,
       "message": "Delete this line.",
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "876b1a58_5f7df0b3",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-02T23:51:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5450616c_5dd2dfbc",
       "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
