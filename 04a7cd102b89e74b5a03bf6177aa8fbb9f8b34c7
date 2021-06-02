@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e7a7b435_3d18fcb3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-02T21:42:08Z",
+      "side": 1,
+      "message": "Hi Colin,\n  Damian converted Android.mk to Android.bp. Would appreciate if you could take a look.\n  \n  Thanks\n  Raman",
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9dfeb57e_a4d92745",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-02T21:42:08Z",
+      "side": 1,
+      "message": "Delete lines 1 and 2",
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5450616c_5dd2dfbc",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-02T21:42:08Z",
+      "side": 1,
+      "message": "Delete this line.",
+      "revId": "04a7cd102b89e74b5a03bf6177aa8fbb9f8b34c7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
