@@ -16,6 +16,24 @@
       "message": "Did bpfmt not turn the tab into 8 spaces?",
       "revId": "6f94c8fc91009e3c4a6ea266854fa96202a0a746",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f319fdec_ea41313f",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-04T20:20:42Z",
+      "side": 1,
+      "message": "Interestingly, I have been running \"bpfmt -w .\" but when I ran \"bpfmt -w Android.bp\" I believe the format changes were implemented. I can patch this up momentarily. Thanks for your feedback!",
+      "parentUuid": "0d75ff14_bf3ce3c3",
+      "revId": "6f94c8fc91009e3c4a6ea266854fa96202a0a746",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
