@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0d75ff14_bf3ce3c3",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-04T19:14:14Z",
+      "side": 1,
+      "message": "Did bpfmt not turn the tab into 8 spaces?",
+      "revId": "6f94c8fc91009e3c4a6ea266854fa96202a0a746",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
