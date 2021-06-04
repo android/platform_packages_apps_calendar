@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "151faa51_e93ce986",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-04T01:47:50Z",
+      "side": 1,
+      "message": "Hi Damian,\n  There are Merge conflicts. You may have to do repo sync to get the latest changes and resolve the merge conflicts.",
+      "revId": "4bdb49aa5a572105e0aef85ed5ce627154355082",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
