@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c2e2e769_df690ad2",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-05T01:45:43Z",
+      "side": 1,
+      "message": "When you ran bpfmt, did it really only indent this 2 spaces?",
+      "revId": "40978b35a3f107d55a29ddc73e88dbaa06b58c8c",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
