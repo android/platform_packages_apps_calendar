@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ccc30bac_8bf01a74",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1881880
+      },
+      "writtenOn": "2021-06-05T01:30:37Z",
+      "side": 1,
+      "message": "Adding the Android.bp file for this file conversion. ",
+      "revId": "292af69f343d3be77a0f5e887302163a0b500c6b",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
