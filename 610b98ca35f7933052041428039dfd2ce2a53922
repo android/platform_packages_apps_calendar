@@ -18,6 +18,24 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "bdf1b117_c4c2c6fc",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1881880
+      },
+      "writtenOn": "2021-06-09T20:16:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d25abc6c_c041bec8",
+      "revId": "610b98ca35f7933052041428039dfd2ce2a53922",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d859c31f_22a9e66b",
@@ -31,6 +49,24 @@
       "writtenOn": "2021-06-09T20:01:20Z",
       "side": 1,
       "message": "Line length.\n\nhttps://developer.android.com/kotlin/style-guide#line_wrapping",
+      "revId": "610b98ca35f7933052041428039dfd2ce2a53922",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9c56783b_5ffb2039",
+        "filename": "src/com/android/calendar/CalendarBackupAgent.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1881880
+      },
+      "writtenOn": "2021-06-09T20:16:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d859c31f_22a9e66b",
       "revId": "610b98ca35f7933052041428039dfd2ce2a53922",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
