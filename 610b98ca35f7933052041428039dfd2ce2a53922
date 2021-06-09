@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d25abc6c_c041bec8",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-09T19:56:00Z",
+      "side": 1,
+      "message": "nit: can you please add them in alphabetical order?",
+      "revId": "610b98ca35f7933052041428039dfd2ce2a53922",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
