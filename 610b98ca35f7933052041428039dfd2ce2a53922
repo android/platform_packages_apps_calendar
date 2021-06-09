@@ -16,6 +16,23 @@
       "message": "nit: can you please add them in alphabetical order?",
       "revId": "610b98ca35f7933052041428039dfd2ce2a53922",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d859c31f_22a9e66b",
+        "filename": "src/com/android/calendar/CalendarBackupAgent.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-09T20:01:20Z",
+      "side": 1,
+      "message": "Line length.\n\nhttps://developer.android.com/kotlin/style-guide#line_wrapping",
+      "revId": "610b98ca35f7933052041428039dfd2ce2a53922",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
