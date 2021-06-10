@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5fd165c6_90f2a652",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-10T15:37:34Z",
+      "side": 1,
+      "message": "Again, this seems to just re-do what was undone.",
+      "revId": "1ae4e4229e038efb95829b9ad0d2100caf6847c8",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6bfc6cfd_2e452899",
+        "filename": "src/com/android/calendar/DayOfMonthDrawable.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-10T15:37:34Z",
+      "side": 1,
+      "message": "Line length. https://developer.android.com/kotlin/style-guide#line_wrapping",
+      "revId": "1ae4e4229e038efb95829b9ad0d2100caf6847c8",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
