@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "925c5323_5c89ff44",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-10T22:26:40Z",
+      "side": 1,
+      "message": "Hi Bob,\n  This is the final CL and the Android.bp file has all the Java files that were converted. Please take a look. Thanks much.",
+      "revId": "2c93b9549f28175425bc2b889306e1012d662a11",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
