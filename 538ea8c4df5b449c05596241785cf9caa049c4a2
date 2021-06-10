@@ -16,6 +16,24 @@
       "message": "I don\u0027t understand this change. It seems to undo the prior one.",
       "revId": "538ea8c4df5b449c05596241785cf9caa049c4a2",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "047504c2_02f1a46c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-10T16:05:35Z",
+      "side": 1,
+      "message": "I didn\u0027t commit the java copy before converting so I essentially restarted the process in a way.",
+      "parentUuid": "f28948ca_74a9f01f",
+      "revId": "538ea8c4df5b449c05596241785cf9caa049c4a2",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
