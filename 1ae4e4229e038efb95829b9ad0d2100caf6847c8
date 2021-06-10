@@ -33,6 +33,24 @@
       "message": "Line length. https://developer.android.com/kotlin/style-guide#line_wrapping",
       "revId": "1ae4e4229e038efb95829b9ad0d2100caf6847c8",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dc8ee6b3_8cf6b84b",
+        "filename": "src/com/android/calendar/DayOfMonthDrawable.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-10T16:31:33Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6bfc6cfd_2e452899",
+      "revId": "1ae4e4229e038efb95829b9ad0d2100caf6847c8",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
