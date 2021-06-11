@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4298f7db_83214de2",
+        "filename": "src/com/android/calendar/MultiStateButton.kt",
+        "patchSetId": 3
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-11T22:07:44Z",
+      "side": 1,
+      "message": "nit: just curious why mState was renamed to state? Did the conversion program do this? Thanks",
+      "revId": "54c927cc12ef672da4c412f03f0e5a9be570288e",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e7c10b14_548ba44c",
+        "filename": "src/com/android/calendar/MultiStateButton.kt",
+        "patchSetId": 3
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-11T22:07:44Z",
+      "side": 0,
+      "message": "Shouldn\u0027t we not reset the stage to null of  mButtonDrawable?",
+      "range": {
+        "startLine": 152,
+        "startChar": 12,
+        "endLine": 152,
+        "endChar": 27
+      },
+      "revId": "b86cec11644624405aa22d9db5be489f28fa6721",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
