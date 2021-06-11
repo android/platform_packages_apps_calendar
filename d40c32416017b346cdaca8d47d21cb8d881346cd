@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d5c874ef_4f1c07d7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-11T16:48:00Z",
+      "side": 1,
+      "message": "Patchset 3 CR+2.",
+      "revId": "d40c32416017b346cdaca8d47d21cb8d881346cd",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
