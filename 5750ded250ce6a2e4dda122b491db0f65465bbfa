@@ -16,6 +16,24 @@
       "message": "nit: It looks like line#116 is longer than 100 characters.",
       "revId": "5750ded250ce6a2e4dda122b491db0f65465bbfa",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d9ce07bb_1494162e",
+        "filename": "src/com/android/calendar/alerts/AlertReceiver.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-11T16:42:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6da22b68_dadb0365",
+      "revId": "5750ded250ce6a2e4dda122b491db0f65465bbfa",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
