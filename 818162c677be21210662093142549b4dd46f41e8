@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4bde40bf_4e1db104",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-11T00:28:03Z",
+      "side": 1,
+      "message": "Hi Damian,\n  You had put this in a separate topic, thus this CL didn\u0027t get uploaded. You may have to sync and build again. It is also possible Calendar app is broken now.\n  \n  All the 4 CLs are dependent on each other, thus they should be in the same topic because Android.bp file has exclude clause for this change. But the Kotlin file wasn\u0027t merged.",
+      "revId": "818162c677be21210662093142549b4dd46f41e8",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
