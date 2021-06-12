@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c0242a61_2feb4ba6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-12T02:02:58Z",
+      "side": 1,
+      "message": "Hi Damian,\n  You have to do repo sync (or rebase) to get the latest changes to resolve merge conflicts.",
+      "revId": "f0de2d9c1c0b7ea9fa2187b1829b4f03ddeb7d06",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
