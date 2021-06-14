@@ -16,6 +16,24 @@
       "message": "Hi Damian,\n  You have to do repo sync (or rebase) to get the latest changes to resolve merge conflicts.",
       "revId": "f0de2d9c1c0b7ea9fa2187b1829b4f03ddeb7d06",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6172e168_23e226d7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-14T13:27:15Z",
+      "side": 1,
+      "message": "Thanks. I\u0027ve downloaded the patch and rebased.",
+      "parentUuid": "c0242a61_2feb4ba6",
+      "revId": "f0de2d9c1c0b7ea9fa2187b1829b4f03ddeb7d06",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
