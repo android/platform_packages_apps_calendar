@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5e3ca773_d097693a",
+        "filename": "src/com/android/calendar/CalendarUtils.kt",
+        "patchSetId": 3
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-15T17:00:55Z",
+      "side": 1,
+      "message": "We generally delete code rather than comment it out.\n\nAs a general rule, it\u0027s best to apply every review comment everywhere it applies.",
+      "revId": "1372aa60b831c1fa459c28ed42a8c485e4607678",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
