@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f25cc0ab_97576a7d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-15T20:53:23Z",
+      "side": 1,
+      "message": "Please wait for Mahi\u0027s CR. Thanks",
+      "revId": "bfa4de2f781f3ea228c3eaaf0d738b4570ffcacd",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
