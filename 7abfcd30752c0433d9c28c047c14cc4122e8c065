@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0708a8da_080bc2c2",
+        "filename": "src/com/android/calendar/alerts/AlarmScheduler.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 1881880
+      },
+      "writtenOn": "2021-06-15T00:03:36Z",
+      "side": 0,
+      "message": "I\u0027ve seen some problems when converting static java methods with the automatic converter. If this method is called by a static method elsewhere (which is possible given the Java signature indicates it\u0027s static) we would get this error \n\n\"non-static method scheduleNextAlarm(Context) cannot be referenced \nfrom a static context\" \n\nThese two articles were helpful in working around this issue: https://stackoverflow.com/questions/40352684/what-is-the-equivalent-of-java-static-methods-in-kotlin \n\nhttps://kotlinlang.org/docs/object-declarations.html#companion-objects\n\nIt\u0027s a pretty simple fix, but will keep the code as similar to the Java code as possible. Obviously applies to the other static methods in this file. Let me know if you run into any issues, I can walk you through what I did.",
+      "range": {
+        "startLine": 104,
+        "startChar": 11,
+        "endLine": 104,
+        "endChar": 18
+      },
+      "revId": "7abfcd30752c0433d9c28c047c14cc4122e8c065",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
