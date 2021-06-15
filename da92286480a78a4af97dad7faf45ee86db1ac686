@@ -18,6 +18,24 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "3f0a0b59_20dfd1bd",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-15T02:26:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "74100a04_6042962b",
+      "revId": "da92286480a78a4af97dad7faf45ee86db1ac686",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "2afa58e3_fa81bd86",
@@ -31,6 +49,30 @@
       "writtenOn": "2021-06-14T23:39:40Z",
       "side": 1,
       "message": "Should we rename the input argument name? It looks like it is reusing the same name  as var so it can use it in the function with val? We could rename the input variable name and leave line# 322 as alarmTime. wdyt?",
+      "range": {
+        "startLine": 322,
+        "startChar": 8,
+        "endLine": 322,
+        "endChar": 11
+      },
+      "revId": "da92286480a78a4af97dad7faf45ee86db1ac686",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5c2b7703_ed1e99d7",
+        "filename": "src/com/android/calendar/alerts/AlarmScheduler.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 322,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-15T02:26:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2afa58e3_fa81bd86",
       "range": {
         "startLine": 322,
         "startChar": 8,

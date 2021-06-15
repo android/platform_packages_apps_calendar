@@ -22,6 +22,30 @@
       },
       "revId": "7abfcd30752c0433d9c28c047c14cc4122e8c065",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1fcc05ee_714b6de4",
+        "filename": "src/com/android/calendar/alerts/AlarmScheduler.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-15T02:26:24Z",
+      "side": 0,
+      "message": "Thank you for these very helpful articles. This file is a bit unique in that all of its members and methods are static. Thus, AlarmScheduler has been declared as an \"object\" rather than a \"class\". In essence, this means that all the functions will be treated like static methods. One thing that the converter does not do well is enforcing the static behavior of functions which, according the Kotlin docs, can be done by adding an \"@JvmStatic\" method in front of each function. I\u0027ve made sure to add these annotations.",
+      "parentUuid": "0708a8da_080bc2c2",
+      "range": {
+        "startLine": 104,
+        "startChar": 11,
+        "endLine": 104,
+        "endChar": 18
+      },
+      "revId": "7abfcd30752c0433d9c28c047c14cc4122e8c065",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
