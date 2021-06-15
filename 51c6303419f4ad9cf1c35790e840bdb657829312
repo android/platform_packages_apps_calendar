@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a577123e_9517541c",
+        "filename": "src/com/android/calendar/CalendarUtils.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-15T14:08:56Z",
+      "side": 1,
+      "message": "We generally just delete code rather than comment it out.",
+      "revId": "51c6303419f4ad9cf1c35790e840bdb657829312",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2d4be8b6_bb2eb325",
+        "filename": "src/com/android/calendar/CalendarUtils.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-15T14:08:56Z",
+      "side": 1,
+      "message": "nit: line length",
+      "revId": "51c6303419f4ad9cf1c35790e840bdb657829312",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "eb6fc7cb_890a0324",
+        "filename": "src/com/android/calendar/CalendarUtils.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 237,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-15T14:08:56Z",
+      "side": 1,
+      "message": "nit: line length",
+      "revId": "51c6303419f4ad9cf1c35790e840bdb657829312",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f44a8c23_3549a857",
+        "filename": "src/com/android/calendar/CalendarUtils.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 284,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-15T14:08:56Z",
+      "side": 1,
+      "message": "nit: line length",
+      "revId": "51c6303419f4ad9cf1c35790e840bdb657829312",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d0777ff2_c4b7727a",
+        "filename": "src/com/android/calendar/CalendarUtils.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 318,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-15T14:08:56Z",
+      "side": 1,
+      "message": "nit: line length",
+      "revId": "51c6303419f4ad9cf1c35790e840bdb657829312",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
