@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9d5a97dd_17bf72e0",
+        "filename": "src/com/android/calendar/CalendarUtils.kt",
+        "patchSetId": 4
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-15T20:07:57Z",
+      "side": 1,
+      "message": "line#96 doesn\u0027t seem right. \") {\" at the end.\n\nThe following is the Java code.\n\n\n        // The name of the shared preferences file. This name must be maintained for historical\n        // reasons, as it\u0027s what PreferenceManager assigned the first time the file was created.\n        private final String mPrefsName;",
+      "revId": "805df83af6f2191a63a27e4d571a951e6c16b0aa",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
