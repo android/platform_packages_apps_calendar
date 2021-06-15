@@ -37,6 +37,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "86ae6564_0b08193b",
+        "filename": "src/com/android/calendar/CalendarUtils.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-15T14:33:01Z",
+      "side": 1,
+      "message": "I\u0027ve noticed that the ktlint python script that we run doesn\u0027t do a great job of correcting or even detecting line length. The Android Studio editor, however, has a vertical line that is 100 characters away from the left edge of the editor. I\u0027ve been manually scrolling through the code ensuring that no lines of code cross that vertical line.",
+      "range": {
+        "startLine": 135,
+        "startChar": 24,
+        "endLine": 135,
+        "endChar": 100
+      },
+      "revId": "51c6303419f4ad9cf1c35790e840bdb657829312",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "eb6fc7cb_890a0324",
         "filename": "src/com/android/calendar/CalendarUtils.kt",
         "patchSetId": 1
