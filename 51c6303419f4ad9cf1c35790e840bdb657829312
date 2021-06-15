@@ -18,6 +18,24 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "12b57169_b70cd571",
+        "filename": "src/com/android/calendar/CalendarUtils.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 1881880
+      },
+      "writtenOn": "2021-06-15T16:20:43Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a577123e_9517541c",
+      "revId": "51c6303419f4ad9cf1c35790e840bdb657829312",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "2d4be8b6_bb2eb325",
@@ -58,6 +76,48 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "2c7f9273_597ad0d9",
+        "filename": "src/com/android/calendar/CalendarUtils.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 1881880
+      },
+      "writtenOn": "2021-06-15T16:20:43Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "86ae6564_0b08193b",
+      "range": {
+        "startLine": 135,
+        "startChar": 24,
+        "endLine": 135,
+        "endChar": 100
+      },
+      "revId": "51c6303419f4ad9cf1c35790e840bdb657829312",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5b9dee5d_d831a3aa",
+        "filename": "src/com/android/calendar/CalendarUtils.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 1881880
+      },
+      "writtenOn": "2021-06-15T16:20:43Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2d4be8b6_bb2eb325",
+      "revId": "51c6303419f4ad9cf1c35790e840bdb657829312",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "eb6fc7cb_890a0324",
@@ -71,6 +131,24 @@
       "writtenOn": "2021-06-15T14:08:56Z",
       "side": 1,
       "message": "nit: line length",
+      "revId": "51c6303419f4ad9cf1c35790e840bdb657829312",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "44946986_e29edace",
+        "filename": "src/com/android/calendar/CalendarUtils.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 237,
+      "author": {
+        "id": 1881880
+      },
+      "writtenOn": "2021-06-15T16:20:43Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "eb6fc7cb_890a0324",
       "revId": "51c6303419f4ad9cf1c35790e840bdb657829312",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
@@ -92,6 +170,24 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "6efb996d_1b157cac",
+        "filename": "src/com/android/calendar/CalendarUtils.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 284,
+      "author": {
+        "id": 1881880
+      },
+      "writtenOn": "2021-06-15T16:20:43Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f44a8c23_3549a857",
+      "revId": "51c6303419f4ad9cf1c35790e840bdb657829312",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d0777ff2_c4b7727a",
@@ -105,6 +201,24 @@
       "writtenOn": "2021-06-15T14:08:56Z",
       "side": 1,
       "message": "nit: line length",
+      "revId": "51c6303419f4ad9cf1c35790e840bdb657829312",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "38bfcbfc_daa61ed9",
+        "filename": "src/com/android/calendar/CalendarUtils.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 318,
+      "author": {
+        "id": 1881880
+      },
+      "writtenOn": "2021-06-15T16:20:43Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d0777ff2_c4b7727a",
       "revId": "51c6303419f4ad9cf1c35790e840bdb657829312",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
