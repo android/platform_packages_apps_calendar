@@ -16,6 +16,24 @@
       "message": "We generally delete code rather than comment it out.\n\nAs a general rule, it\u0027s best to apply every review comment everywhere it applies.",
       "revId": "1372aa60b831c1fa459c28ed42a8c485e4607678",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a7471951_ff6da009",
+        "filename": "src/com/android/calendar/CalendarUtils.kt",
+        "patchSetId": 3
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 1881880
+      },
+      "writtenOn": "2021-06-15T17:05:28Z",
+      "side": 1,
+      "message": "My bad! Didn\u0027t see the second comment when making edits. Thanks Bob!",
+      "parentUuid": "5e3ca773_d097693a",
+      "revId": "1372aa60b831c1fa459c28ed42a8c485e4607678",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
