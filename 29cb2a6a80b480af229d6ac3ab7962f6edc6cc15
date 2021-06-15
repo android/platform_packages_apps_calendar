@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bc1cf9c7_70789515",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-15T02:25:57Z",
+      "side": 1,
+      "message": "+vsiva@ and kunshen@ for Kotlin readability and if we have converted @jvmStatic methods correctly or not. We would appreciate if some one from Android Studio team for Java to Kotlin conversion (as well as readability). Thanks much",
+      "revId": "29cb2a6a80b480af229d6ac3ab7962f6edc6cc15",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
