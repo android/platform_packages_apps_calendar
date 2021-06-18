@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d80c664a_08b26408",
+        "filename": "src/com/android/calendar/CalendarController.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-18T21:54:19Z",
+      "side": 1,
+      "message": "These comments are suitable for a function not a variable. I suggest replacing them with:\n\n// the last event ID the edit view was launched with",
+      "revId": "ce703c94c0b6f12f5dc7e5adeca9a2b50783d5bb",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f051295b_586d1df6",
+        "filename": "src/com/android/calendar/CalendarController.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-18T21:54:19Z",
+      "side": 1,
+      "message": "Similarly here.",
+      "revId": "ce703c94c0b6f12f5dc7e5adeca9a2b50783d5bb",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
