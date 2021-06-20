@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7b55444e_ceb5d50e",
+        "filename": "src/com/android/calendar/CalendarController.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 455,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-20T23:02:03Z",
+      "side": 1,
+      "message": "nit: does kotlin need else {}? thanks",
+      "revId": "daa9b6af90e7f2152121e751e0bc68e83a6e6854",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7a57a22f_27b4a245",
+        "filename": "src/com/android/calendar/CalendarController.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 486,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-20T23:02:03Z",
+      "side": 1,
+      "message": "nit: can lines 486-488 be in one line?",
+      "revId": "daa9b6af90e7f2152121e751e0bc68e83a6e6854",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "df72616f_dfe72b81",
+        "filename": "src/com/android/calendar/CalendarController.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 510,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-20T23:02:03Z",
+      "side": 1,
+      "message": "nit: consider lines 510-513 into one line ala java code",
+      "revId": "daa9b6af90e7f2152121e751e0bc68e83a6e6854",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "98220ece_f0596fd8",
+        "filename": "src/com/android/calendar/CalendarController.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 521,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-20T23:02:03Z",
+      "side": 1,
+      "message": "nit: consider matching lines 521\u0027s indentation with line 523.",
+      "revId": "daa9b6af90e7f2152121e751e0bc68e83a6e6854",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "04b9b627_0a4a45e1",
+        "filename": "src/com/android/calendar/CalendarController.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 531,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-20T23:02:03Z",
+      "side": 1,
+      "message": "nit: consider combining lines 531-532 into one line.",
+      "revId": "daa9b6af90e7f2152121e751e0bc68e83a6e6854",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c1138ec8_928bb5df",
+        "filename": "src/com/android/calendar/CalendarController.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 607,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-20T23:02:03Z",
+      "side": 1,
+      "message": "nit: wondering if \"else {}\" is necessary or not.",
+      "revId": "daa9b6af90e7f2152121e751e0bc68e83a6e6854",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
