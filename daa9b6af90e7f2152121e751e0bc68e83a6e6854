@@ -36,6 +36,24 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "cdaa35f1_ef97fef0",
+        "filename": "src/com/android/calendar/CalendarController.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 455,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-21T13:35:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "66be7b7a_edbcd664",
+      "revId": "daa9b6af90e7f2152121e751e0bc68e83a6e6854",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "7a57a22f_27b4a245",
@@ -207,6 +225,24 @@
       "side": 1,
       "message": "This else branch in particular is required to avoid compile errors. The reason being the use of the temp variable.",
       "parentUuid": "c1138ec8_928bb5df",
+      "revId": "daa9b6af90e7f2152121e751e0bc68e83a6e6854",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4465a743_a95e5f69",
+        "filename": "src/com/android/calendar/CalendarController.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 607,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-21T13:35:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "81b43646_6dfb2201",
       "revId": "daa9b6af90e7f2152121e751e0bc68e83a6e6854",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
