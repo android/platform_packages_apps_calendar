@@ -22,6 +22,30 @@
       },
       "revId": "81d0e16d55d72dfb862e568637fd358eeb9dfb53",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ee25db6f_c888e713",
+        "filename": "src/com/android/calendar/CalendarController.kt",
+        "patchSetId": 4
+      },
+      "lineNbr": 452,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-21T17:22:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e4a040e9_276770fc",
+      "range": {
+        "startLine": 452,
+        "startChar": 20,
+        "endLine": 452,
+        "endChar": 25
+      },
+      "revId": "81d0e16d55d72dfb862e568637fd358eeb9dfb53",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
