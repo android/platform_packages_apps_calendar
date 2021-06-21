@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e4a040e9_276770fc",
+        "filename": "src/com/android/calendar/CalendarController.kt",
+        "patchSetId": 4
+      },
+      "lineNbr": 452,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-21T17:09:32Z",
+      "side": 1,
+      "message": "nit: line#s 452 and 453 can be merged into one line.",
+      "range": {
+        "startLine": 452,
+        "startChar": 20,
+        "endLine": 452,
+        "endChar": 25
+      },
+      "revId": "81d0e16d55d72dfb862e568637fd358eeb9dfb53",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
