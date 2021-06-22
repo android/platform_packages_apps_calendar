@@ -34,6 +34,57 @@
       "parentUuid": "7182906e_6c6dbad5",
       "revId": "00723d0271b03ef0263749c28ac5f159a982ebe4",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b1d58a05_f25ee8ff",
+        "filename": "src/com/android/calendar/StickyHeaderListView.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 242,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-22T17:25:02Z",
+      "side": 1,
+      "message": "Is there a reason to change separator to operator?",
+      "revId": "00723d0271b03ef0263749c28ac5f159a982ebe4",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "20defd0f_04399d08",
+        "filename": "src/com/android/calendar/StickyHeaderListView.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 384,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-22T17:25:02Z",
+      "side": 1,
+      "message": "We usually delete code rather than comment it out.",
+      "revId": "00723d0271b03ef0263749c28ac5f159a982ebe4",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8c775b9b_3cd865f8",
+        "filename": "src/com/android/calendar/StickyHeaderListView.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 394,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-22T17:25:02Z",
+      "side": 1,
+      "message": "Here too.",
+      "revId": "00723d0271b03ef0263749c28ac5f159a982ebe4",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
