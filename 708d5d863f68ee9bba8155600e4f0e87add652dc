@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "089e43f5_13701504",
+        "filename": "src/com/android/calendar/Event.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-22T17:32:23Z",
+      "side": 1,
+      "message": "Just curious: Does kotlin have the same concept of Parcelable as Java?",
+      "revId": "708d5d863f68ee9bba8155600e4f0e87add652dc",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
