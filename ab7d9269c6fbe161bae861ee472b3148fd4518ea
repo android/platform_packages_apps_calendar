@@ -18,6 +18,24 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "80339b96_5f1263b5",
+        "filename": "src/com/android/calendar/StickyHeaderListView.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-22T15:42:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "75d5b740_cab68d6a",
+      "revId": "ab7d9269c6fbe161bae861ee472b3148fd4518ea",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d60d9fe7_6ee6aebb",
@@ -35,6 +53,24 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "98209fb9_e621a923",
+        "filename": "src/com/android/calendar/StickyHeaderListView.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 226,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-22T15:42:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d60d9fe7_6ee6aebb",
+      "revId": "ab7d9269c6fbe161bae861ee472b3148fd4518ea",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a8d05496_db65d1c2",
@@ -48,6 +84,24 @@
       "writtenOn": "2021-06-22T15:40:24Z",
       "side": 1,
       "message": "nit: minor cleanup - please delete line# 350.",
+      "revId": "ab7d9269c6fbe161bae861ee472b3148fd4518ea",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7db6565b_73f55ade",
+        "filename": "src/com/android/calendar/StickyHeaderListView.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 350,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-22T15:42:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a8d05496_db65d1c2",
       "revId": "ab7d9269c6fbe161bae861ee472b3148fd4518ea",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
