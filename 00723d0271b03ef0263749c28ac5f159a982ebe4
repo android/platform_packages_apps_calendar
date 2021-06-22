@@ -16,6 +16,24 @@
       "message": "Would like Bob to code review the changes. Thanks",
       "revId": "00723d0271b03ef0263749c28ac5f159a982ebe4",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6a9ff2d5_4ce12613",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-22T15:45:07Z",
+      "side": 1,
+      "message": "Sounds good. Thanks!",
+      "parentUuid": "7182906e_6c6dbad5",
+      "revId": "00723d0271b03ef0263749c28ac5f159a982ebe4",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
