@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "75d5b740_cab68d6a",
+        "filename": "src/com/android/calendar/StickyHeaderListView.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-22T15:40:24Z",
+      "side": 1,
+      "message": "nit: minor cleanup - please delete line#123",
+      "revId": "ab7d9269c6fbe161bae861ee472b3148fd4518ea",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d60d9fe7_6ee6aebb",
+        "filename": "src/com/android/calendar/StickyHeaderListView.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 226,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-22T15:40:24Z",
+      "side": 1,
+      "message": "nit: minor cleanup - please delete line# 226.",
+      "revId": "ab7d9269c6fbe161bae861ee472b3148fd4518ea",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a8d05496_db65d1c2",
+        "filename": "src/com/android/calendar/StickyHeaderListView.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 350,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-22T15:40:24Z",
+      "side": 1,
+      "message": "nit: minor cleanup - please delete line# 350.",
+      "revId": "ab7d9269c6fbe161bae861ee472b3148fd4518ea",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
