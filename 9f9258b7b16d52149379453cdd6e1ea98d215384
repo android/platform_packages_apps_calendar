@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "64169676_63edc2a0",
+        "filename": "src/com/android/calendar/Event.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 584,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-23T00:58:24Z",
+      "side": 1,
+      "message": "nit: merge lines 584 and 585.",
+      "revId": "9f9258b7b16d52149379453cdd6e1ea98d215384",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "963b74f3_768738ff",
+        "filename": "src/com/android/calendar/Event.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 589,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-23T00:58:24Z",
+      "side": 1,
+      "message": "nit: Wondering if we could rewrite lines 589-591 as the following?\n\nreturn !(startDay \u003d\u003d julianDay \u0026\u0026 startTime \u003e endMinute)",
+      "revId": "9f9258b7b16d52149379453cdd6e1ea98d215384",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cfd2374d_0126dccb",
+        "filename": "src/com/android/calendar/Event.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 592,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-23T00:58:24Z",
+      "side": 1,
+      "message": "This seems to be a spurious comment (repeated at lini#606).",
+      "range": {
+        "startLine": 592,
+        "startChar": 6,
+        "endLine": 592,
+        "endChar": 7
+      },
+      "revId": "9f9258b7b16d52149379453cdd6e1ea98d215384",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
