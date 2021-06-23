@@ -18,6 +18,24 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "acfcfb75_6150dd31",
+        "filename": "src/com/android/calendar/month/SimpleWeekView.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1881880
+      },
+      "writtenOn": "2021-06-23T23:56:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6aba9aef_4330e74d",
+      "revId": "937bf8f9c6b4ee53d3f0200eaa9efe03f7f2e838",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a471f466_f7c09191",
@@ -31,6 +49,24 @@
       "writtenOn": "2021-06-23T22:41:52Z",
       "side": 1,
       "message": "Same here.",
+      "revId": "937bf8f9c6b4ee53d3f0200eaa9efe03f7f2e838",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6e9262c8_6d70c5c8",
+        "filename": "src/com/android/calendar/month/SimpleWeekView.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 1881880
+      },
+      "writtenOn": "2021-06-23T23:56:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a471f466_f7c09191",
       "revId": "937bf8f9c6b4ee53d3f0200eaa9efe03f7f2e838",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
