@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6aba9aef_4330e74d",
+        "filename": "src/com/android/calendar/month/SimpleWeekView.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-23T22:41:52Z",
+      "side": 1,
+      "message": "The javadoc/kdoc comment suitable for a function is no longer relevant here now that the function is gone.",
+      "revId": "937bf8f9c6b4ee53d3f0200eaa9efe03f7f2e838",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a471f466_f7c09191",
+        "filename": "src/com/android/calendar/month/SimpleWeekView.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-23T22:41:52Z",
+      "side": 1,
+      "message": "Same here.",
+      "revId": "937bf8f9c6b4ee53d3f0200eaa9efe03f7f2e838",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
