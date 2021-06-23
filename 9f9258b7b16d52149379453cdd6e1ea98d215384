@@ -18,6 +18,24 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "cc153115_4465afa9",
+        "filename": "src/com/android/calendar/Event.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 584,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-23T03:17:05Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "64169676_63edc2a0",
+      "revId": "9f9258b7b16d52149379453cdd6e1ea98d215384",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "963b74f3_768738ff",
@@ -35,6 +53,24 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "9f2016bc_d6eac1b5",
+        "filename": "src/com/android/calendar/Event.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 589,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-23T03:17:05Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "963b74f3_768738ff",
+      "revId": "9f9258b7b16d52149379453cdd6e1ea98d215384",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "cfd2374d_0126dccb",
@@ -48,6 +84,30 @@
       "writtenOn": "2021-06-23T00:58:24Z",
       "side": 1,
       "message": "This seems to be a spurious comment (repeated at lini#606).",
+      "range": {
+        "startLine": 592,
+        "startChar": 6,
+        "endLine": 592,
+        "endChar": 7
+      },
+      "revId": "9f9258b7b16d52149379453cdd6e1ea98d215384",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c1b4a155_bc9201eb",
+        "filename": "src/com/android/calendar/Event.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 592,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-23T03:17:05Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "cfd2374d_0126dccb",
       "range": {
         "startLine": 592,
         "startChar": 6,
