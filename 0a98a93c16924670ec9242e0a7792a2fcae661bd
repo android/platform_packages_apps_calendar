@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "34f4e468_273ff6eb",
+        "filename": "src/com/android/calendar/Utils.kt",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-24T20:29:24Z",
+      "side": 1,
+      "message": "nit: should line#18 import be near line# 36? Or is this import needed?",
+      "revId": "0a98a93c16924670ec9242e0a7792a2fcae661bd",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
