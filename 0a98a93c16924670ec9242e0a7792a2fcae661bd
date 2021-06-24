@@ -34,6 +34,24 @@
       "parentUuid": "34f4e468_273ff6eb",
       "revId": "0a98a93c16924670ec9242e0a7792a2fcae661bd",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f70b5cfd_51ec338d",
+        "filename": "src/com/android/calendar/Utils.kt",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-24T20:45:02Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9fd7c585_0ea2c254",
+      "revId": "0a98a93c16924670ec9242e0a7792a2fcae661bd",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
