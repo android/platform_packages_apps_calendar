@@ -16,6 +16,24 @@
       "message": "nit: should line#18 import be near line# 36? Or is this import needed?",
       "revId": "0a98a93c16924670ec9242e0a7792a2fcae661bd",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9fd7c585_0ea2c254",
+        "filename": "src/com/android/calendar/Utils.kt",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-24T20:44:47Z",
+      "side": 1,
+      "message": "The import is needed since EXTRA_EVENT_BEGIN_TIME is used on line 465. I think the original Java code separated this import since it\u0027s an \"import static\" but I can move it nearer to line 36 for clarity and uniformity.",
+      "parentUuid": "34f4e468_273ff6eb",
+      "revId": "0a98a93c16924670ec9242e0a7792a2fcae661bd",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
