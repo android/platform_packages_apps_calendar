@@ -16,6 +16,24 @@
       "message": "The \"widening-cast\" thing seems like a time-consuming pitfall that the conversion tool could obviate if handled automatically.\n\nDid you create a feature request for it?",
       "revId": "09d8b8e2980d1fcb16fdedd9e352088c6fc03fe1",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e4806b94_6bc500b3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-24T17:59:40Z",
+      "side": 1,
+      "message": "This is a great idea. I think I can definitely create a feature request for this that can be tracked on buganzier.",
+      "parentUuid": "2c8ce4e6_cdf2c666",
+      "revId": "09d8b8e2980d1fcb16fdedd9e352088c6fc03fe1",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
