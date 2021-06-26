@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a6cf3284_71fc28d4",
+        "filename": "src/com/android/calendar/month/SimpleWeekView.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 454,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-26T01:47:02Z",
+      "side": 1,
+      "message": "nit: combine lines 453 and 454",
+      "revId": "8f2ef620bee0728be75d441e5f51bbf8ab1dc54c",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
