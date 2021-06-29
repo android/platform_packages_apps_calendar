@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b2fcd247_a951d3fc",
+        "filename": "src/com/android/calendar/month/MonthByWeekFragment.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-29T20:20:51Z",
+      "side": 1,
+      "message": "nit: for future, try to avoid combining unnecessary formatting changes with functional changes.",
+      "revId": "4cdf3f59e14288e5a8881f4ef287c7a643df1c21",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
