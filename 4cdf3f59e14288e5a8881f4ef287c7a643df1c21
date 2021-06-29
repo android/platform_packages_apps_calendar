@@ -16,6 +16,24 @@
       "message": "nit: for future, try to avoid combining unnecessary formatting changes with functional changes.",
       "revId": "4cdf3f59e14288e5a8881f4ef287c7a643df1c21",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "69aaac3e_df0cd1a5",
+        "filename": "src/com/android/calendar/month/MonthByWeekFragment.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1881880
+      },
+      "writtenOn": "2021-06-29T20:55:37Z",
+      "side": 1,
+      "message": "That makes sense, will do going forward.",
+      "parentUuid": "b2fcd247_a951d3fc",
+      "revId": "4cdf3f59e14288e5a8881f4ef287c7a643df1c21",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
