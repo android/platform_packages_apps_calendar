@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "957ab5e7_02b8b0f4",
+        "filename": "src/com/android/calendar/CalendarController.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 423,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-29T21:26:15Z",
+      "side": 1,
+      "message": "Will indentation become better if lines 423 and 424 are combined into one line?\n\nSame is true at lines 428-429, 468-469, 475-476, 496-497",
+      "revId": "35942094c5f8ab387a95919ae7529ece3eff107a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "057a7f7e_fdd213e8",
+        "filename": "src/com/android/calendar/month/MonthByWeekFragment.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 339,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-29T21:26:15Z",
+      "side": 1,
+      "message": "How about combining lines 339,340.",
+      "revId": "35942094c5f8ab387a95919ae7529ece3eff107a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
