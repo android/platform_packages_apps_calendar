@@ -3,6 +3,23 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "66565028_6161e6d5",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1338311
+      },
+      "writtenOn": "2021-06-30T21:12:22Z",
+      "side": 1,
+      "message": "Is this a duplicate of line#33?",
+      "revId": "f104b3f445b01fa4372fd3974b064cad446da437",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "07db306c_c77c91c5",
         "filename": "src/com/android/calendar/AllInOneActivity.kt",
         "patchSetId": 2
