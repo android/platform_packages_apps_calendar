@@ -36,6 +36,24 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "c02335a3_ab2adde9",
+        "filename": "src/com/android/calendar/AllInOneActivity.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 221,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-30T18:32:14Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "236773cc_c5d9e4fa",
+      "revId": "f104b3f445b01fa4372fd3974b064cad446da437",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d3827b29_b6900883",
