@@ -20,6 +20,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "236773cc_c5d9e4fa",
+        "filename": "src/com/android/calendar/AllInOneActivity.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 221,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-30T18:26:56Z",
+      "side": 1,
+      "message": "Essentially, timeFromIntentInMillis returns a nullable Long? so only ?.toLong() can be invoked here. Even if this is invoked, it would still need to be cast to Long with `as Long`. Thus far, casting from Long? to Long hasn\u0027t caused any issues.",
+      "parentUuid": "07db306c_c77c91c5",
+      "revId": "f104b3f445b01fa4372fd3974b064cad446da437",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d3827b29_b6900883",
         "filename": "src/com/android/calendar/CalendarController.kt",
         "patchSetId": 2
@@ -31,6 +49,24 @@
       "writtenOn": "2021-06-30T18:19:39Z",
       "side": 1,
       "message": "nit: for future, try to avoid combining unnecessary formatting changes with functional changes.",
+      "revId": "f104b3f445b01fa4372fd3974b064cad446da437",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9f8acd1a_4defe42d",
+        "filename": "src/com/android/calendar/CalendarController.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 227,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-06-30T18:26:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d3827b29_b6900883",
       "revId": "f104b3f445b01fa4372fd3974b064cad446da437",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
