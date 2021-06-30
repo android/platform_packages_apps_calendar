@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "07db306c_c77c91c5",
+        "filename": "src/com/android/calendar/AllInOneActivity.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 221,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-30T18:19:39Z",
+      "side": 1,
+      "message": "No \".toLong()\" call here? And elsewhere?",
+      "revId": "f104b3f445b01fa4372fd3974b064cad446da437",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d3827b29_b6900883",
+        "filename": "src/com/android/calendar/CalendarController.kt",
+        "patchSetId": 2
+      },
+      "lineNbr": 227,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-06-30T18:19:39Z",
+      "side": 1,
+      "message": "nit: for future, try to avoid combining unnecessary formatting changes with functional changes.",
+      "revId": "f104b3f445b01fa4372fd3974b064cad446da437",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
