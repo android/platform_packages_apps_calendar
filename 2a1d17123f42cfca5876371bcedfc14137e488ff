@@ -1,0 +1,28 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "059de5b1_7ea3298e",
+        "filename": "src/com/android/calendar/widget/CalendarAppWidgetService.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 573,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-07-01T14:26:35Z",
+      "side": 1,
+      "message": "\u003e Common typo found: \"instanciated\" -- should it be \"instantiated\"?\n\u003e Note: a line containing \"common_typos_disable\" or \"common_typos_enable\" will turn off or on (respectively) the linter for subsequent lines in the file. Alternatively include the token \"NOTYPO\" within a line to skip typo linting that line or include \u0027No-Typo-Check: \u003creason\u003e\u0027in the commit message.\n\nPlease fix.",
+      "parentUuid": "f5a55cf8_01750d7e",
+      "range": {
+        "startLine": 573,
+        "startChar": 18,
+        "endLine": 573,
+        "endChar": 30
+      },
+      "revId": "2a1d17123f42cfca5876371bcedfc14137e488ff",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
