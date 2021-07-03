@@ -1,0 +1,52 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dbfe0d9b_7870c925",
+        "filename": "src/com/android/calendar/DayView.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 544,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-07-03T13:39:28Z",
+      "side": 1,
+      "message": "\u003e Common typo found: \"visibile\" -- should it be \"visible\"?\n\u003e Note: a line containing \"common_typos_disable\" or \"common_typos_enable\" will turn off or on (respectively) the linter for subsequent lines in the file. Alternatively include the token \"NOTYPO\" within a line to skip typo linting that line or include \u0027No-Typo-Check: \u003creason\u003e\u0027in the commit message.\n\nPlease fix.",
+      "parentUuid": "f789d930_689800f5",
+      "range": {
+        "startLine": 544,
+        "startChar": 20,
+        "endLine": 544,
+        "endChar": 28
+      },
+      "revId": "c978730f7a2117673c2a1ce55ac3785d95cbca42",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d334d75b_cb76ca08",
+        "filename": "src/com/android/calendar/DayView.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 2872,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-07-03T13:39:28Z",
+      "side": 1,
+      "message": "\u003e Common typo found: \"bigger then\" -- should it be \"bigger than\"?\n\u003e Note: a line containing \"common_typos_disable\" or \"common_typos_enable\" will turn off or on (respectively) the linter for subsequent lines in the file. Alternatively include the token \"NOTYPO\" within a line to skip typo linting that line or include \u0027No-Typo-Check: \u003creason\u003e\u0027in the commit message.\n\nPlease fix.",
+      "parentUuid": "64582e5f_12b45459",
+      "range": {
+        "startLine": 2872,
+        "startChar": 61,
+        "endLine": 2872,
+        "endChar": 72
+      },
+      "revId": "c978730f7a2117673c2a1ce55ac3785d95cbca42",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
