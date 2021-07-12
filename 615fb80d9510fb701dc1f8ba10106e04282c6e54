@@ -16,6 +16,24 @@
       "message": "how about today -\u003e mTodayTime? (we are consistent with rest of the member variables)",
       "revId": "615fb80d9510fb701dc1f8ba10106e04282c6e54",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a5e4f91e_8fc49688",
+        "filename": "src/com/android/calendar/month/MonthWeekEventsView.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1881880
+      },
+      "writtenOn": "2021-07-12T19:34:34Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "41816341_5799fb24",
+      "revId": "615fb80d9510fb701dc1f8ba10106e04282c6e54",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
