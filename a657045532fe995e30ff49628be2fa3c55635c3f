@@ -16,6 +16,24 @@
       "message": "How about deleting java files from Android.bp and building of CalendarJava app",
       "revId": "a657045532fe995e30ff49628be2fa3c55635c3f",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c756288b_40a413e6",
+        "filename": "src/com/android/calendar/alerts/AlarmManagerInterface.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-07-13T21:32:15Z",
+      "side": 0,
+      "message": "Great idea. I can upload those changes as a separate CL.",
+      "parentUuid": "ae2bcf3e_a67d7107",
+      "revId": "a657045532fe995e30ff49628be2fa3c55635c3f",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
