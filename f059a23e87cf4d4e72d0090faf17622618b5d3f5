@@ -16,6 +16,24 @@
       "message": "Doesn\u0027t the Android.bp need updating too?",
       "revId": "f059a23e87cf4d4e72d0090faf17622618b5d3f5",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bb4f8627_6d28a73d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1881760
+      },
+      "writtenOn": "2021-07-13T22:43:55Z",
+      "side": 1,
+      "message": "Yep! I\u0027ve uploaded a separate CL for that change.",
+      "parentUuid": "858a2435_f3d40b6c",
+      "revId": "f059a23e87cf4d4e72d0090faf17622618b5d3f5",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
